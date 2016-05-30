@@ -1,2 +1,2 @@
 # NSAIRC
-This is a NSAIRC chat
+This is a NSAIRC chat, or not
